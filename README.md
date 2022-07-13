@@ -1,1 +1,1 @@
-# opencv-webinar-poisson-image-editing
+# OpenCV Webinar on Poisson Image Editing
