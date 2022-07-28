@@ -19,6 +19,7 @@ python removeBlemish.py
 ```
 ![Blemish Removal](https://www.filepicker.io/api/file/iCCrbXDTsq3cgZA1eOvT)
 
+### Further Reading
 **To see hundreds of such examples please visit [LearnOpenCV](https://github.com/spmallick/learnopencv)**
 
 # AI Courses by OpenCV
