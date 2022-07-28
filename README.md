@@ -2,6 +2,8 @@
 
 In this webinar, we will discuss about an interesting Image Blending technique called [**Seamless Cloning**](https://learnopencv.com/seamless-cloning-using-opencv-python-cpp/) which is based on [Poisson Image Editing](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)
 
+|![](https://www.learnopencv.com/wp-content/uploads/2015/01/seamless-cloning-example.jpg)|![](https://www.learnopencv.com/wp-content/uploads/2015/02/sky-with-plane.jpg)|
+
 [**You can open the notebook on Colab**](https://colab.research.google.com/github/bigvisionai/opencv-webinar-poisson-image-editing/blob/main/Seamless_Cloning.ipynb)
 
 We will take the learning further by building a Blemish Removal application where you can get rid of any blemishes just by clicking on it.
