@@ -6,6 +6,8 @@ In this webinar, we will discuss about an interesting Image Blending technique c
 
 [**You can open the notebook on Colab**](https://colab.research.google.com/github/bigvisionai/opencv-webinar-poisson-image-editing/blob/main/Seamless_Cloning.ipynb)
 
+[Colab Link for Face Blending Example](https://colab.research.google.com/github/bigvisionai/opencv-webinar-poisson-image-editing/blob/main/Face_Blending.ipynb)
+
 We will take the learning further by building a Blemish Removal application where you can get rid of any blemishes just by clicking on it.
 
 ### Instructions for running the blemish removal application
