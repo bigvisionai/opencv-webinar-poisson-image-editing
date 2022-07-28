@@ -1,6 +1,6 @@
 # OpenCV Webinar on Poisson Image Editing
 
-In this webinar, we will discuss about an interesting Image Blending technique called **Seamless Cloning** which is based on [Poisson Image Editing](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)
+In this webinar, we will discuss about an interesting Image Blending technique called [**Seamless Cloning**](https://learnopencv.com/seamless-cloning-using-opencv-python-cpp/) which is based on [Poisson Image Editing](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)
 
 [**You can open the notebook on Colab**](https://colab.research.google.com/github/bigvisionai/opencv-webinar-poisson-image-editing/blob/main/Seamless_Cloning.ipynb)
 
