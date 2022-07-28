@@ -4,7 +4,7 @@ In this webinar, we will discuss about an interesting Image Blending technique c
 
 ![Seamless Cloning Result](https://learnopencv.com/wp-content/uploads/2022/07/seamless-clone-feature.jpg)
 
-[**You can open the notebook on Colab**](https://colab.research.google.com/github/bigvisionai/opencv-webinar-poisson-image-editing/blob/main/Seamless_Cloning.ipynb)
+[**Colab Link for Seamless Cloning Example**](https://colab.research.google.com/github/bigvisionai/opencv-webinar-poisson-image-editing/blob/main/Seamless_Cloning.ipynb)
 
 [**Colab Link for Face Blending Example**](https://colab.research.google.com/github/bigvisionai/opencv-webinar-poisson-image-editing/blob/main/Face_Blending.ipynb)
 
