@@ -2,7 +2,7 @@
 
 In this webinar, we will discuss about an interesting Image Blending technique called [**Seamless Cloning**](https://learnopencv.com/seamless-cloning-using-opencv-python-cpp/) which is based on [Poisson Image Editing](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)
 
-|![](https://www.learnopencv.com/wp-content/uploads/2015/01/seamless-cloning-example.jpg)|![](https://www.learnopencv.com/wp-content/uploads/2015/02/sky-with-plane.jpg)|
+![Seamless Cloning Result](https://learnopencv.com/wp-content/uploads/2022/07/seamless-clone-feature.jpg)
 
 [**You can open the notebook on Colab**](https://colab.research.google.com/github/bigvisionai/opencv-webinar-poisson-image-editing/blob/main/Seamless_Cloning.ipynb)
 
