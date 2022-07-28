@@ -18,6 +18,9 @@ We will take the learning further by building a Blemish Removal application wher
 python removeBlemish.py
 ```
 ![Blemish Removal](https://www.filepicker.io/api/file/iCCrbXDTsq3cgZA1eOvT)
+
+To see hundreds of such examples please visit [**LearnOpenCV**](https://github.com/spmallick/learnopencv)
+
 # AI Courses by OpenCV
 
 Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/courses/) is a great place to start.
